@@ -1,2 +1,2 @@
 # HelloWorld
- A introduction to GIt and Github For CIS111B
+Testing Git and Github for CIS 111B
